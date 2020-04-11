@@ -1,2 +1,2 @@
-# BlockchainSeries1
-Code used in this series
+# Blockchain BASIC
+Code used in this series-- Block chain sample is implemented using JAVA
